@@ -1,0 +1,6 @@
+Software Smith Installer
+
+Java based installer using XML based script files
+Cross platform
+Update capabilities
+gui

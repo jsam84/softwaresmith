@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Platform platform="Windows 7">
+	<Path>C:\Test\</Path>
+	<Source>/project</Source>
+	<File_List>
+		<File>Test.txt</File>
+	</File_List>
+
+
+
+
+</Platform>

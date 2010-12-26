@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="SoftwareSmith">
+	<InstallerVersion>1.0</InstallerVersion>
+	<Version>1.0</Version>
+	<ProjectPath></ProjectPath>
+	<UpdateURL></UpdateURL>
+	<Platform platform="Windows XP" processor="x86">
+		<ScriptPath>/project/XP_Platform.xml</ScriptPath>
+	</Platform>
+	<Platform platform="Windows 7" processor="x86">
+		<ScriptPath>/project/Win_7.xml</ScriptPath>
+	</Platform>
+	<Platform platform="Ubuntu Linux 10.4" processor="x86-64">
+		<ScriptPath>/project/Ubuntu1004x64</ScriptPath>
+	</Platform>
+	
+	
+</Project>
